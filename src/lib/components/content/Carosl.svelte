@@ -2,10 +2,10 @@
     import { onMount } from 'svelte';
     
     const images = [
-      'https://picsum.photos/id/45/500',
-      'https://picsum.photos/id/33/500',
-      'https://picsum.photos/id/32/500',
-      'https://picsum.photos/id/35/500'
+      'https://picsum.photos/id/87/500',
+      'https://picsum.photos/id/74/500',
+      'https://picsum.photos/id/44/500',
+      'https://picsum.photos/id/82/500'
     ];
   
     let captions = [
